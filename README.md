@@ -6,7 +6,7 @@ I'm currently working on Abe, a machine learning platform that slashes labeling 
 <br>
 
 ## Current scope: 
-Homepage design & frontend development: I focus on responsiveness across various screen sizes.  
+Homepage design & dev, focussing on responsiveness across various screen sizes.  
 
 
 <br>
