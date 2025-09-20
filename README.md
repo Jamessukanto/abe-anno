@@ -1,8 +1,7 @@
 ![Preview](./banner.png)
 
 ## Abe - Collaborative Data Annotator
-Annotate the bigger picture. Abe helps you build richer training data — capture object hierarchy and relations for complex structured annotations.
-a machine learning . .  👉 [View Site](https://abe-branding.vercel.app/)
+Annotate the bigger picture. Abe helps you build richer training data — capture object hierarchy and relations for complex structured annotations.  👉 [Visit site for Demo](https://abe-branding.vercel.app/)
 
 <br>
 
