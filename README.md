@@ -17,9 +17,9 @@ Abe helps you build richer training data — capture object hierarchy and relati
 ## Known bugs:
 - Drag & Drop of Annotation Tree panel
 
-## Planned features:
+## Planned:
 - Scene graphs
-- Scehma reconciliation & consolidation
+- Semi-automated schema reconciliation
 
 <br>
 
