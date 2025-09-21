@@ -4,7 +4,7 @@
 
 <br>
 
-Abe is an image data annotator for complex object relations. It helps you build richer training data — capture object hierarchy and relations, while managing evolving schemas. 👉 [Request a Demo](https://abe-branding.vercel.app/)
+Abe is an image data annotator for complex object relations. It helps you build richer training data — capture object hierarchy and relations, while managing evolving data schema. 👉 [Request a Demo](https://abe-branding.vercel.app/)
 
 <br>
 
