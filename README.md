@@ -16,11 +16,9 @@ Product pain points:
 ## Known issues:
 - Drag & Drop of Annotation Tree panel
 
-## Planned:
-- Support for drawing vector shapes 
-- Support for auto-generation of shapes from user selections.
-- Auto-annotation based on active learning
-- Schma reconciliation & consolidation
+## Planned features:
+- Scene graphs
+- Scehma reconciliation & consolidation
 
 <br>
 
