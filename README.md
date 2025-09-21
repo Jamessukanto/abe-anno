@@ -8,7 +8,7 @@ Abe is an image data annotator for complex object relations. It helps you build 
 
 <br>
 
-### Pain points:
+### Challenges:
 - Existing tools handle classical tasks like object detection but fail for structured key-value extraction in document parsing.
 - In practice, data schemas evolve and are continually discovered by labelers — not fixed upfront. These need to be reconciled and consolidated.
 
