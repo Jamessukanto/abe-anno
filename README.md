@@ -1,6 +1,6 @@
 ![Preview](./banner.png)
 
-# Abe - Annotate the bigger picture
+# Abe - Annotate the Bigger Picture
 
 <br>
 
