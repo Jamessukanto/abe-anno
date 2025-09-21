@@ -14,6 +14,10 @@ Abe is an image data annotator for complex object relations. It helps you build 
 
 <br>
 
+![Preview](./anno1.png)
+
+<br>
+
 ## Known bugs:
 - Drag & Drop of Annotation Tree panel
 
@@ -23,4 +27,4 @@ Abe is an image data annotator for complex object relations. It helps you build 
 
 <br>
 
-![Preview](./site_preview_home.png)
+
