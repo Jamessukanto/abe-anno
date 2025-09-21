@@ -1,9 +1,8 @@
 ![Preview](./banner.png)
 
 # Abe - Image Annotator for Complex Object Relations
-Annotate the bigger picture. 
 
-Abe helps you build richer training data — capture object hierarchy and relations, while managing evolving schemas. 👉 [Request a Demo](https://abe-branding.vercel.app/)
+<b>Annotate the bigger picture. </b> Abe helps you build richer training data — capture object hierarchy and relations, while managing evolving schemas. 👉 [Request a Demo](https://abe-branding.vercel.app/)
 
 <br>
 
