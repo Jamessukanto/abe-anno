@@ -1,9 +1,18 @@
 ![Preview](./banner.png)
 
-## Abe - Collaborative Data Annotator
-Annotate the bigger picture. Abe helps you build richer training data — capture object hierarchy and relations for complex structured annotations.  👉 [Visit site for Demo](https://abe-branding.vercel.app/)
+# Abe - Annotate the bigger picture
+Abe helps you build richer training data — capture object hierarchy and relations for complex structured annotations.
+
+A data annotation platform, designed to create richer relational image datasets while reconciling and consolidating evolving data schemas. 👉 [Request a Demo](https://abe-branding.vercel.app/)
 
 <br>
+
+Product pain points:
+- Existing tools handle classical tasks like object detection but fail for structured key-value extraction in document parsing.
+- In practice, schemas evolve and are discovered by labelers—not fixed upfront—yet existing tools don’t support this dynamic process.
+
+Market potential: $2B+ market growing fast, with a clear gap in intuitive tools for structured, text-driven annotation.
+
 
 ## Known issues:
 - Drag & Drop of Annotation Tree panel
@@ -12,6 +21,7 @@ Annotate the bigger picture. Abe helps you build richer training data — captur
 - Support for drawing vector shapes 
 - Support for auto-generation of shapes from user selections.
 - Auto-annotation based on active learning
+- Schma reconciliation & consolidation
 
 <br>
 
