@@ -11,7 +11,9 @@ Product pain points:
 - Existing tools handle classical tasks like object detection but fail for structured key-value extraction in document parsing.
 - In practice, schemas evolve and are discovered by labelers—not fixed upfront—yet existing tools don’t support this dynamic process.
 
-Market potential: $2B+ market growing fast, with a clear gap in intuitive tools for structured, text-driven annotation.
+Market potential: 
+<br>
+$2B+ market growing fast, with a clear gap in intuitive tools for structured, text-driven annotation.
 
 
 ## Known issues:
