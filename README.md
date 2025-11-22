@@ -15,7 +15,7 @@ Abe is a ground-truth schema editor for document images. It lets data annotators
 
 <br>
 
-![Preview](./anno1.png)
+![Preview](./annot1.png)
 
 
 <br>
